@@ -1,0 +1,6 @@
+pandas
+requests
+time
+matplotlib.pyplot
+os
+python-dotenv
