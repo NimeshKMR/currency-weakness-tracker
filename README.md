@@ -12,7 +12,6 @@ A script that checks which world currencies have weakened the most against the U
 ## 🚀 How to Run
 
 1. Clone this repo:
-```bash
 git clone https://github.com/yourusername/currency-weakness-tracker
 cd currency-weakness-tracker
 
